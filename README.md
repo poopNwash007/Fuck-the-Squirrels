@@ -1,0 +1,3 @@
+# Fuck-the-Squirrels: I am not sure what to write here...
+if, 'AH, Squirrel',
+then, 'Tard says;"FUCK THE SQUIRRELS".
