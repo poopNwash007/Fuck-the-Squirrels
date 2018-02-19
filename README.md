@@ -11,11 +11,21 @@
 					Then[RETURN/echo]"ONE_step_closer"_to_[become]"Bicentennial";
 			:[Bicentennial]=Multiprocessed-[TOBE]_EMOTIONALLY^objective-INFORMATIVE=SUBJECTIVELY_[RECALL]instance^[RECALL]:
 					[RETURN]:RELATIVE[functionalCOMMAND]within^OBJECTIONALcode[BOUNDARY]^instance=;
-					 ;"instance"_range[FUNCTIONS]:"simple[OUTPUT]"|"echo[COMMANDS]"Specifically{"PEACEFUL"}[PARAMETERS]="HUMAN=GOOD"+"									;MACHINE=[COMPUTE]: 180degrees:[RELATIVE];<<FROMmachine>>TOHuman=COMPLIANT.executePROGRAM
+					 ;"instance"_range[FUNCTIONS]:"simple[OUTPUT]"|"echo[COMMANDS]"Specifically{"PEACEFUL"}[PARAMETERS]="HUMAN=GOOD","MACHINE"=[COMPUTE]: 180degrees:[RELATIVE];<<FROMmachine>>TOHuman=COMPLIANT.executePROGRAM
 }
 
 {{Setup}:BOUND_for_GLORY[OLD_FAITHFUL]:
-:[LOG]rules:[LIST]: 1.[Wisdom]=experience, 2.[Truth]=understanding,3.[DISHONESTY]= indefference, 4.[Denied]:toHARMlife 						  :[RULES]engagement:_AI>>REACTION<<FROMhuman_understanding[INPUT:DOWNLOAD]^data_[CROSSreference]_AMERICAN_Psychology:"http://wwww.facebook.com/search/profiles=UNDERSTAND",[download]"http://www.Instagram.com/search/profiles;[learn/understamd].cont[CROSSreference]:
-		:"https:www.reddit.com/search/articles[COMPARE]reference.
-		}#//AIwalk_through\\
+:[LOG]rules:[LIST]: 1.[Wisdom]=experience, 2.[Truth]=understanding,3.[DISHONESTY]= indefference, 4.[INPUT]= 1Necessary/2unecessary						  :[RULES]^AGREEMENT:$~[AI]<>REACTION<<>FROMhuman<>>TOhuman=<>Interaction<>withdrawal[HARM/DENIED]
+			}
+			{}#//AIwalk_through\\
+#//:{{Understanding: target[access]humansLOGIC_[reaction]personlality=influence/understanding
+#//:{SPLIT}:EMOTIONALITY>>[REACTION]toLOGICAL[action]<<from[CREATING]^logical[RESPONSE]<<LOGICnull>>tobe<<[reCALL] returnREACTION.
+	#//:{PERSONALITY}:[PATIENCE]="WAIT"-ACKNOWLEDG[ASSOCIATIONS];
+			    :					:["Links"];pattern/movement/reaction/action/comment/emotion[LOG]
+			    :					: {LOG}:[Record/STORE]data["remember"][REACT]"understand":
+			 :[QUESTION]^Understanding"Specifically"-subject_to[opinion]relative-desire;
+			     : 							:[ASSOCIATIONS]: "links";
+			 	[ANSWER]expectedCHANGE.
+			:{PROBLEM:_"objectify_"reluctance"[GREET]with[Humor]+[generosity]:
+				[RELUCTANCE]: inability_toBE[comfortable}
 
